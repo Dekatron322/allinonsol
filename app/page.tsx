@@ -91,11 +91,11 @@ export default function Web() {
                   <div className="flex justify-end gap-2">
                     <AuthProviders />
 
-                    <Link href="https://x.com/venuscat_sol?s=11&t=lJcRGun_pd4gpFpb8bAobw" target="_blank">
+                    <Link href="https://x.com/allin_onsol1?s=21&t=4ZQwXy6jS-rHe_Y8pwoF-w" target="_blank">
                       <Image src="/TwitterX.png" height={30} width={30} alt="" />
                     </Link>
                     <Link
-                      href="https://dexscreener.com/solana/gpmofkvaxocdetbcfysxun23bv5txud5qpjjz9hwf5eg"
+                      href="https://dexscreener.com/solana/5scrnfejztxzx3qbqzrpnqhqkgja2ajwfwxlcmrkkxwa"
                       target="_blank"
                     >
                       <Image src="/Dexscreener.png" height={30} width={30} alt="" />

@@ -1,5 +1,5 @@
 export const NavLinks = [
-  { href: "#about", key: "ABOUT $VENUS", text: "ABOUT VENUS" },
+  { href: "#about", key: "ABOUT $ALLIN", text: "ABOUT ALLIN" },
   { href: "#roadmap", key: "ROADMAP", text: "ROADMAP" },
   { href: "#how-to-buy", key: "HOW TO BUY", text: "HOW TO BUY" },
 ]
@@ -27,7 +27,7 @@ export const footerLinks = [
   },
   {
     title: "Company",
-    links: ["About $Venus", "Roadmap", "How To Buy"],
+    links: ["About $ALLIN", "Roadmap", "How To Buy"],
   },
   {
     title: "Directories",
