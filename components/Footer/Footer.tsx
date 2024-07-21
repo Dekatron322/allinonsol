@@ -17,7 +17,7 @@ const Footer = () => {
   return (
     <>
       <div className="paddings flex w-full flex-col items-center justify-center  bg-[#ffffff] ">
-        <div className="flex items-center justify-center pt-16 sm:w-[60%]  sm:px-16 sm:py-4">
+        <div className="flex items-center justify-center  sm:w-[60%]  sm:px-16 ">
           <p className="text-center font-semibold">
             <span className="text-[#487b8f] ">$ALLIN</span> or nothing <br />
             This is the memecoin dream - One Token, Lives Changed! <br /> We do this{" "}
